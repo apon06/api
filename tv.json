@@ -1,166 +1,137 @@
-{
-  "channels": [
+[
     {
-      "Id": 1,
-      "Name": "Millennium TV USA",
-      "Image": "https://play-lh.googleusercontent.com/k2pZI4ICzAXwZVzMpB232mOwKAzGBrsWQ-ctp0xZjiVAm_n7pb89afOYrrvRZRoNQqE",
-      "Url": "https://app.jagobd.com.bd/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8"
+        "Name": "Millennium TV USA",
+        "Image": "https://play-lh.googleusercontent.com/k2pZI4ICzAXwZVzMpB232mOwKAzGBrsWQ-ctp0xZjiVAm_n7pb89afOYrrvRZRoNQqE",
+        "Url": "https://app.jagobd.com.bd/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8"
     },
     {
-      "Id": 2,
-      "Name": "Millennium TV 24",
-      "Image": "https://play-lh.googleusercontent.com/CCqeoZgwNAfUc9h7oGg19AsBTVlfSnNBbp4APMcuBQnHwnWkARD-oPOxLzh2fOuXh2w0",
-      "Url": "https://app.jagobd.com.bd/live-orgin/mnews24.stream/playlist.m3u8"
+        "Name": "Millennium TV 24",
+        "Image": "https://play-lh.googleusercontent.com/CCqeoZgwNAfUc9h7oGg19AsBTVlfSnNBbp4APMcuBQnHwnWkARD-oPOxLzh2fOuXh2w0",
+        "Url": "https://app.jagobd.com.bd/live-orgin/mnews24.stream/playlist.m3u8"
     },
     {
-      "Id": 3,
-      "Name": "Makkah TV",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8"
+        "Name": "Makkah TV",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCVPXXnt4LxrLpCI6sRKfYu0bZkjHUg1WkQ&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8"
     },
     {
-      "Id": 4,
-      "Name": "JonmoBhumi TV",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nbtpgwhqVc7-lIYDdjq-wD5iyUH3ndQEuQ&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8"
+        "Name": "JonmoBhumi TV",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nbtpgwhqVc7-lIYDdjq-wD5iyUH3ndQEuQ&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8"
     },
     {
-      "Id": 5,
-      "Name": "Jagoroni TV",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8"
+        "Name": "Jagoroni TV",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8"
     },
     {
-      "Id": 6,
-      "Name": "JagoNews24 TV",
-      "Image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg",
-      "Url": "https://app.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8"
+        "Name": "JagoNews24 TV",
+        "Image": "https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg",
+        "Url": "https://app.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8"
     },
     {
-      "Id": 7,
-      "Name": "Islam TV",
-      "Image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",
-      "Url": "https://app.jagobd.com.bd/live-orgin/islamtv.stream/playlist.m3u8"
+        "Name": "Islam TV",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",
+        "Url": "https://app.jagobd.com.bd/live-orgin/islamtv.stream/playlist.m3u8"
     },
     {
-      "Id": 8,
-      "Name": "iON TV UK",
-      "Image": "https://media.licdn.com/dms/image/v2/C560BAQFmwKt40bS1fQ/company-logo_200_200/company-logo_200_200/0/1631387654835?e=2147483647&v=beta&t=YOoD16TxNPcoUij9tPl__w3eRfbFhOIIhF0IhLngK2Q",
-      "Url": "https://app.jagobd.com.bd/live-orgin/iontvuk.stream/playlist.m3u8"
+        "Name": "iON TV UK",
+        "Image": "https://media.licdn.com/dms/image/v2/C560BAQFmwKt40bS1fQ/company-logo_200_200/company-logo_200_200/0/1631387654835?e=2147483647&v=beta&t=YOoD16TxNPcoUij9tPl__w3eRfbFhOIIhF0IhLngK2Q",
+        "Url": "https://app.jagobd.com.bd/live-orgin/iontvuk.stream/playlist.m3u8"
     },
     {
-      "Id": 9,
-      "Name": "DW News",
-      "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
-      "Url": "https://app.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8"
+        "Name": "DW News",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
+        "Url": "https://app.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8"
     },
     {
-      "Id": 10,
-      "Name": "CHANNEL S",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEkbno6_s0UWgUukz0Emqvnj4iVWlvl9yow&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8"
+        "Name": "CHANNEL S",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEkbno6_s0UWgUukz0Emqvnj4iVWlvl9yow&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8"
     },
     {
-      "Id": 11,
-      "Name": "CHANNEL S UK",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OoBST8IOU0i5yAcgEoz9tu5dJuroeMwiXg&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/chsukoff.stream/playlist.m3u8"
+        "Name": "CHANNEL S UK",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OoBST8IOU0i5yAcgEoz9tu5dJuroeMwiXg&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/chsukoff.stream/playlist.m3u8"
     },
     {
-      "Id": 12,
-      "Name": "TIME TELEVISION",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNmGMVx_q7pm7uc7-VHAbIkfISrgD1osEnA&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8"
+        "Name": "TIME TELEVISION",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNmGMVx_q7pm7uc7-VHAbIkfISrgD1osEnA&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8"
     },
     {
-      "Id": 13,
-      "Name": "THE CHANNEL TV",
-      "Image": "https://raw.githubusercontent.com/tvs6/livetv/refs/heads/main/img/channels/thechanneltv.png",
-      "Url": "https://app.jagobd.com.bd/live-orgin/thechanneltv.stream/playlist.m3u8"
+        "Name": "THE CHANNEL TV",
+        "Image": "https://raw.githubusercontent.com/tvs6/livetv/refs/heads/main/img/channels/thechanneltv.png",
+        "Url": "https://app.jagobd.com.bd/live-orgin/thechanneltv.stream/playlist.m3u8"
     },
     {
-      "Id": 14,
-      "Name": "CHANNEL EUROPE",
-      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5BvpXZ2hQk4gzD7Fx_LWlEYzxXXTR2otIA&s",
-      "Url": "https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8"
+        "Name": "CHANNEL EUROPE",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5BvpXZ2hQk4gzD7Fx_LWlEYzxXXTR2otIA&s",
+        "Url": "https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8"
     },
     {
-      "Id": 15,
-      "Name": "DEEPTO TV HD",
-      "Image": "https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",
-      "Url": "https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8"
+        "Name": "DEEPTO TV HD",
+        "Image": "https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",
+        "Url": "https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8"
     },
     {
-      "Id": 16,
-      "Name": "𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿",
-      "Image": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8"
+        "Name": "𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿",
+        "Image": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8"
     },
     {
-      "Id": 17,
-      "Name": "𝙀𝙣𝙩𝙚𝙧 10 𝘽𝙖𝙣𝙜𝙡𝙖",
-      "Image": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
-      "Url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+        "Name": "𝙀𝙣𝙩𝙚𝙧 10 𝘽𝙖𝙣𝙜𝙡𝙖",
+        "Image": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
+        "Url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
     },
     {
-      "Id": 18,
-      "Name": "𝙎𝙤𝙣𝙮 𝘼𝘼𝙏𝙃",
-      "Image": "https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",
-      "Url": "http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1"
+        "Name": "𝙎𝙤𝙣𝙮 𝘼𝘼𝙏𝙃",
+        "Image": "https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",
+        "Url": "http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1"
     },
     {
-      "Id": 19,
-      "Name": "𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝘾𝙞𝙣𝙚𝙢𝙖",
-      "Image": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8"
+        "Name": "𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝘾𝙞𝙣𝙚𝙢𝙖",
+        "Image": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8"
     },
     {
-      "Id": 20,
-      "Name": "𝘾𝘼𝙍𝙏𝙊𝙊𝙉 𝙏𝙑",
-      "Image": "https://i.postimg.cc/qRY4TnfB/20240823_020345.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/CartoonTV/default/cartoonTV.m3u8"
+        "Name": "𝘾𝘼𝙍𝙏𝙊𝙊𝙉 𝙏𝙑",
+        "Image": "https://i.postimg.cc/qRY4TnfB/20240823_020345.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/CartoonTV/default/cartoonTV.m3u8"
     },
     {
-      "Id": 21,
-      "Name": "𝙏𝙒 𝘽𝙍𝙊𝘼𝘿𝘾𝘼𝙎𝙏",
-      "Image": "https://i.postimg.cc/9XfCpCwb/20240822-231352.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBroadcast/default/tvBroadcast.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙍𝙊𝘼𝘿𝘾𝘼𝙎𝙏",
+        "Image": "https://i.postimg.cc/9XfCpCwb/20240822-231352.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBroadcast/default/tvBroadcast.m3u8"
     },
     {
-      "Id": 22,
-      "Name": "𝙏𝙒 𝘽𝙇𝙊𝘾𝙆𝘽𝘼𝘾𝘿",
-      "Image": "https://i.postimg.cc/V6FtnzHk/20240822-231307.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBlocked/default/tvBlocked.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙇𝙊𝘾𝙆𝘽𝘼𝘿",
+        "Image": "https://i.postimg.cc/V6FtnzHk/20240822-231307.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBlocked/default/tvBlocked.m3u8"
     },
     {
-      "Id": 23,
-      "Name": "𝙏𝙒 𝘽𝙀𝙏𝙊𝙉",
-      "Image": "https://i.postimg.cc/P5zsb2z5/20240822-231448.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBeton/default/tvBeton.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙀𝙏𝙊𝙉",
+        "Image": "https://i.postimg.cc/P5zsb2z5/20240822-231448.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBeton/default/tvBeton.m3u8"
     },
     {
-      "Id": 24,
-      "Name": "𝙏𝙒 𝘽𝙀𝙏𝙊𝙉 𝙃𝘿",
-      "Image": "https://i.postimg.cc/nzD5R9J6/20240822-231545.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBetonHD/default/tvBetonHD.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙀𝙏𝙊𝙉 𝙃𝘿",
+        "Image": "https://i.postimg.cc/nzD5R9J6/20240822-231545.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBetonHD/default/tvBetonHD.m3u8"
     },
     {
-      "Id": 25,
-      "Name": "𝙏𝙒 𝘽𝙄𝙕 𝙇𝙄𝙑𝙀",
-      "Image": "https://i.postimg.cc/Z5Kfqmk9/20240822-231555.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBizLive/default/tvBizLive.m3u8"
+        "Name": "𝙏𝙎 𝙏𝙑",
+        "Image": "https://i.postimg.cc/Z5Kfqmk9/20240822-231555.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBizLive/default/tvBizLive.m3u8"
     },
     {
-      "Id": 26,
-      "Name": "𝙏𝙒 𝘽𝙊𝘿𝙔 𝘽𝙇𝙊𝘾𝙆",
-      "Image": "https://i.postimg.cc/FH0VbxMW/20240822-231614.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBodyBlock/default/tvBodyBlock.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙊𝘿𝙔 𝘽𝙇𝙊𝘾𝙆",
+        "Image": "https://i.postimg.cc/FH0VbxMW/20240822-231614.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBodyBlock/default/tvBodyBlock.m3u8"
     },
     {
-      "Id": 27,
-      "Name": "𝙏𝙒 𝘽𝙊𝘿𝙔 𝘽𝙇𝙊𝘾𝙆 𝙃𝘿",
-      "Image": "https://i.postimg.cc/h4Xjtn84/20240822-231632.png",
-      "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBodyBlockHD/default/tvBodyBlockHD.m3u8"
+        "Name": "𝙏𝙒 𝘽𝙊𝘋𝙔 𝘽𝙇𝙊𝘾𝙆 𝙃𝘿",
+        "Image": "https://i.postimg.cc/h4Xjtn84/20240822-231632.png",
+        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/TvBodyBlockHD/default/tvBodyBlockHD.m3u8"
     }
-  ]
-}
+]
