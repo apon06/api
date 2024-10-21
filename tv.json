@@ -20,9 +20,9 @@
         "Url": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8"
     },
     {
-        "Name": "Jagoroni TV",
+        "Name": "Discovery Kids",
         "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",
-        "Url": "https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8"
+        "Url": "https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8"
     },
     {
         "Name": "JagoNews24 TV",
