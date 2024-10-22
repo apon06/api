@@ -1,12 +1,12 @@
 [
     {
         "Name": "Discovery 📺",
-        "Image": "https://tinyurl.com/57tw44s9",
+        "Image": "https://i.postimg.cc/t4PvKBks/discoverybangla.jpg",
         "Url": "https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8"
     },
     {
         "Name": "Discovery Kids",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",
+        "Image": "https://i.postimg.cc/59RPjhkH/discoverykids.jpg",
         "Url": "https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8"
     },
     {
@@ -19,10 +19,5 @@
         "Name": "𝙀𝙣𝙩𝙚𝙧 10 𝘽𝙖𝙣𝙜𝙡𝙖",
         "Image": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
         "Url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
-    },
-    {
-        "Name": "𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝘾𝙞𝙣𝙚𝙢𝙖",
-        "Image": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
-        "Url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8"
     }
 ]
