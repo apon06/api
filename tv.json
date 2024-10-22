@@ -24,5 +24,10 @@
         "Name": "Sony Yey",
         "Image": "https://i.postimg.cc/t4PvKBks/discoverybangla.jpg",
         "Url": "http://103.124.251.164:28015/play/a02n/index.m3u8"
+    },
+     {
+        "Name": "Sony",
+        "Image": "https://i.postimg.cc/t4PvKBks/discoverybangla.jpg",
+        "Url": "http://103.124.251.164:28015/play/a02n/index.m3u8"
     }
 ]
