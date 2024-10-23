@@ -21,9 +21,9 @@
         "Url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
     },
      {
-        "Name": "Sony Yey",
+        "Name": "Ekusey TV",
         "Image": "https://i.postimg.cc/t4PvKBks/discoverybangla.jpg",
-        "Url": "http://103.124.251.164:28015/play/a02n/index.m3u8"
+        "Url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
     },
      {
         "Name": "Sony",
