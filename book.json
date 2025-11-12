@@ -1,4 +1,5 @@
 {
-  "message": "<video src=\"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4\">",
-  "latest_version": "1.0.1"
+  "message": "# hello from flutter",
+  "latest_version": "1.0.1",
+  "download_url":"https://chromewebstore.google.com/detail/smart-volume-normalizer/aaidcpkbbakmfdcahkkonkdnjinnkegg?authuser=0&hl=en"
 }
