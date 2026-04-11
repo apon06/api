@@ -1,6 +1,5 @@
 [
-    { "tag": "Featured", "text": "Try Pro version for free! ✨", "url": "https://gokeihub.com" },
-    { "tag": "New App", "text": "bkash_message: Smart Dart alerts 🔔", "url": "https://github.com/apon133/bkash_message" },
-    { "tag": "Trending", "text": "Achived: Track your goals 🎯", "url": "https://github.com/apon133/Achived" },
-    { "tag": "Hot", "text": "HSC 2026 Countdown is here! 🎓", "url": "https://github.com/apon133/hsc-2026-countdown" }
+    { "tag": "New App", "text": "StudyKyo: Focus & Block distractions 📚", "url": "https://github.com/apon133/studykyo" },
+    { "tag": "Trending", "text": "SafeCalc: Calculator with vault 🔐", "url": "https://github.com/apon133/safecalc" },
+    { "tag": "New", "text": "TimeTax: Track your time ⏱️", "url": "https://github.com/apon133/timetax" }
   ]
